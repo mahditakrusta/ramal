@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { db } from "@/db";
 import { categories, products, productImages, reviews } from "@/db/schema";
-import { sql } from "drizzle-orm";
+import { sql } from "https://imgbb.com/";
 
 export async function POST() {
   try {
