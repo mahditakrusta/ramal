@@ -13,7 +13,7 @@ export async function POST() {
       { name: "گلدان‌ها", slug: "vases", description: "گلدان‌های سفالی و سرامیکی دست‌ساز با طرح‌های اصیل ایرانی", image: "https://images.pexels.com/photos/15028227/pexels-photo-15028227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" },
       { name: "ظروف سفره", slug: "tableware", description: "بشقاب، کاسه و ظروف سرو سفالی برای سفره‌ای زیبا", image: "https://images.pexels.com/photos/18273388/pexels-photo-18273388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" },
       { name: "ست عرق خوری", slug: "tea-sets", description: "ست‌های عرق خوری سرامیکی با طراحی منحصر به فرد", image: "https://images.pexels.com/photos/18426652/pexels-photo-18426652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" },
-      { name: "زیر سیگاری",, description: "زیر سیگاری سفالی برای دوستی با طبیعت ", image: "https://images.pexels.com/photos/18646120/pexels-photo-18646120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" },
+      { name: "زیر سیگاری", slug: "decorative", description: "زیر سیگاری سفالی برای دوستی با طبیعت ", image: "https://images.pexels.com/photos/18646120/pexels-photo-18646120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" },
     ]).returning();
 
     // Product data
