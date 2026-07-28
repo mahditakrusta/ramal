@@ -93,7 +93,7 @@ export default function Header() {
               ظروف سفره
             </Link>
             <Link href="/products?category=tea-sets" onClick={() => setMobileMenuOpen(false)} className="text-earth-700 hover:text-clay-600 transition-colors font-medium py-2">
-              ست چای‌خوری
+              ست عرق خوری
             </Link>
           </nav>
         </div>
