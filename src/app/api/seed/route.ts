@@ -29,7 +29,7 @@ export async function POST() {
         featured: true,
         material: "سفال با لعاب فیروزه‌ای",
         dimensions: "ارتفاع ۲۸ سانتی‌متر × قطر ۱۵ سانتی‌متر",
-        weight: "۱.۲ کیلوگرم",
+        weight: "۱.4 کیلوگرم",
       },
       {
         name: "ست سه‌تایی گلدان مینیاتور",
