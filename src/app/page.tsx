@@ -249,24 +249,7 @@ export default async function HomePage() {
         </div>
       </section>
 
-      {/* Newsletter */}
-      <section className="py-16 bg-clay-50">
-        <div className="max-w-2xl mx-auto px-4 text-center">
-          <h2 className="text-2xl font-bold text-clay-800 mb-3">از جدیدترین محصولات باخبر شوید</h2>
-          <p className="text-earth-400 mb-8">با عضویت در خبرنامه، از تخفیف‌ها و محصولات جدید مطلع شوید.</p>
-          <div className="flex gap-3 max-w-md mx-auto">
-            <input
-              type="email"
-              placeholder="ایمیل خود را وارد کنید"
-              className="flex-1 px-4 py-3 rounded-xl border border-sand-200 bg-white focus:outline-none focus:ring-2 focus:ring-clay-300 text-sm"
-              dir="ltr"
-            />
-            <button className="bg-clay-600 text-white px-6 py-3 rounded-xl font-bold hover:bg-clay-700 transition-colors whitespace-nowrap text-sm">
-              عضویت
-            </button>
-          </div>
-        </div>
-      </section>
+  
     </div>
   );
 }
