@@ -38,7 +38,7 @@ export default function Header() {
               ظروف سفره
             </Link>
             <Link href="/products?category=tea-sets" className="text-earth-700 hover:text-clay-600 transition-colors font-medium text-sm">
-              ست چای‌خوری
+              ست عرق خوری
             </Link>
           </nav>
 
