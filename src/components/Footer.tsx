@@ -25,8 +25,8 @@ export default function Footer() {
               <li><Link href="/products" className="text-earth-400 hover:text-clay-400 transition-colors text-sm">همه محصولات</Link></li>
               <li><Link href="/products?category=vases" className="text-earth-400 hover:text-clay-400 transition-colors text-sm">گلدان‌ها</Link></li>
               <li><Link href="/products?category=tableware" className="text-earth-400 hover:text-clay-400 transition-colors text-sm">ظروف سفره</Link></li>
-              <li><Link href="/products?category=tea-sets" className="text-earth-400 hover:text-clay-400 transition-colors text-sm">ست چای‌خوری</Link></li>
-              <li><Link href="/products?category=decorative" className="text-earth-400 hover:text-clay-400 transition-colors text-sm">تزئینی</Link></li>
+              <li><Link href="/products?category=tea-sets" className="text-earth-400 hover:text-clay-400 transition-colors text-sm">ست عرق خوری</Link></li>
+              <li><Link href="/products?category=decorative" className="text-earth-400 hover:text-clay-400 transition-colors text-sm">زیر سیگاری</Link></li>
             </ul>
           </div>
 
